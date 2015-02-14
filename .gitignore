@@ -14,3 +14,4 @@ missing
 src/.deps/
 src/ncmpcpp
 stamp-h1
+.idea/
